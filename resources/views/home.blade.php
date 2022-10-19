@@ -6,8 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 </head>
-<body style="text-align: center">
-    <h1>Hi</h1>
+<body style="text-align: center;margin: 20%">
+    <h1>Hi,</h1>
     <p>Perkenalkan nama saya Naufal Rifqi Zuhrian, <br>
     Prodi S1 RPL, <br>
     NIM 2001040002<br></p>
